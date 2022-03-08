@@ -1,1 +1,2 @@
-This is first file 
+This is first file. 
+Now i'm doing some changes in file 1 
